@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
 //Defining a queue
 struct queue {
     int front;  //Front/lowerbound of the queue
