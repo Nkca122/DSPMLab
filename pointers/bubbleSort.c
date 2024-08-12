@@ -2,6 +2,7 @@
 void bubbleSort(int* arr, int n);
 void inputArray(int* arr, int n);
 void outputArray(int* arr, int n);
+
 int main(){
     //Initializing array
         int n; printf("Enter the size of the array: "); scanf("%d", &n);
