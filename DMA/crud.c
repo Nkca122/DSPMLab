@@ -38,7 +38,7 @@ int main(){
     int size = 0;
     int* arr = (int*)calloc(n, sizeof(int));
     
-    for(int i = 0; i < n; i++){
+    for(int i = 0; i < n+1; i++){
         insert(arr, &size, i, i+1);
     }
 
