@@ -1,0 +1,5 @@
+/*
+    C is not a object oriented programming language thus does not contain classes
+    whilst struct is a derived datatype in C which can be used to store various datatypes
+    together
+ */

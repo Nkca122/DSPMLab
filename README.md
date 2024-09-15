@@ -31,8 +31,9 @@
 
 5. Implement stack and queue using memory allocation
 
+## d. Structures
+1. What is a structure in C programming  & how it is used ?
 
+2. What is the difference between a structure and a class in c ?
 
-
-
-
+3. How to dynamically allocate memeory for a structure in c ?
