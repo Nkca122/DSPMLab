@@ -37,3 +37,20 @@
 2. What is the difference between a structure and a class in c ?
 
 3. How to dynamically allocate memeory for a structure in c ?
+
+4. implement a structure, mobile phones, create an array of structure then read the data and display them in table format
+
+5. Create a user defined data type to accept data about `N` students perform the following operations
+> - Create
+> - Modify
+> - delete
+> - display
+
+
+**NOTE**: use a menu driven approach for this programm
+
+6. Using DMA create a structure, for movies
+
+**NOTE**: use a menu driven approach for this programm
+
+7. Using a pointer to structure , define a structure called `Cars`, collect data about `N` cars and display them 
