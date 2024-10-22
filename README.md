@@ -54,3 +54,18 @@
 **NOTE**: use a menu driven approach for this programm
 
 7. Using a pointer to structure , define a structure called `Cars`, collect data about `N` cars and display them 
+
+## e. Linked List
+1. Implement a singly linked list and perform the following operations
+>- Insert at rear
+>- Insert at front
+>- Insert at position
+>- Delete at front 
+>- Delete at rear
+>- Delete at position
+>- Modify
+>- Display
+Using a menu driven approach
+
+2. Create a singly linked list such that the nodes are ordered in ascending order
+3. Reverse a singly linked list without using an array
